@@ -1,5 +1,8 @@
 # Maartens Micro-Benchmarks
 
+[![CircleCI](https://circleci.com/gh/mthmulders/micro-benchmarks/tree/master.svg?style=svg)](https://circleci.com/gh/mthmulders/micro-benchmarks/tree/master)
+[![Dependabot](https://app.dependabot.com/)](https://flat.badgen.net/dependabot/thepracticaldev/dev.to?icon=dependabot)
+
 This repository contains a collection of so-called "micro-benchmarks".
 A micro-benchmark is a tool that measures performance characteristics of a small piece of code.
 
